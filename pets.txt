@@ -2,3 +2,6 @@ Rusty
 Steel
 Colt
 Wallas
+Monty
+Sticky
+Mafia
